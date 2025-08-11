@@ -1,0 +1,12 @@
+Development stesp:
+
+1.Create a Eclipse Dynamic Web Proejcts
+2. Add dependencies
+3. MySQL Database setup
+4. create a javaBean -- User.java 
+5. create a userDAO.java 
+6. create a userServlet.java 
+7.creating a user Listing JSP page ---- user-list.JSP
+create a user form JSP page -- user-form.JSP
+creating Error JSP page
+testing the application 
