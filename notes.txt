@@ -1,7 +1,7 @@
 Development stesp:
 
-1.Create a Eclipse Dynamic Web Proejcts
-2. Add dependencies
+1.Create a Eclipse Dynamic Web Proejcts -- done
+2. Add dependencies -- add 4 dependencies 
 3. MySQL Database setup
 4. create a javaBean -- User.java 
 5. create a userDAO.java 
